@@ -1,16 +1,29 @@
-## Hi there 👋
+# Stephen Casselman's Cybersecurity Portfolio
 
-<!--
-**srcasselman/srcasselman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my documentation hub. I am a Cybersecurity Specialist instructor at Chippewa Valley Technical College (CVTC), building a foundation in physical security, IT infrastructure, and network defense. 
 
-Here are some ideas to get you started:
+This site serves as a live record of my technical labs, architectural designs, and methodology as I prepare for roles in IT Support and Security Operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect With Me
+* **LinkedIn:** [My Professional Profile]([https://linkedin.com/in/your-custom-ur](https://www.linkedin.com/in/stephenrcasselman/))
+* **GitHub:** [My Technical Vault]([https://github.com/yourusername](https://github.com/srcasselman))
+
+---
+
+## 🛠️ Projects & Labs
+
+*(Below is where I document my hands-on coursework and independent labs.)*
+
+### Semester 1:
+* Example 1
+* Example 2
+* Example 3
+
+### Semester 2: 
+* *Projects coming soon...*
+
+### Semester 3: 
+* *Projects coming soon...*
+
+### Semester 4: 
+* *Projects coming soon...*
